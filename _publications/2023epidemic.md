@@ -4,7 +4,7 @@ title: "Epidemic Learning: Boosting Decentralized Learning with Randomized Commu
 authors: 'Martijn De Vos, Sadegh Farhadkhani, Rachid Guerraoui, Anne-Marie Kermarrec, Rafael Pires, Rishi Sharma'
 venue: 'NeurIPS'
 date: 2023-12-11
-#paperurl: 'https://drive.google.com/file/d/1IWBhhndH5jKaVHG10tvQrLYbJ1_bSlIs/view?usp=sharing'
-pdf: 'https://drive.google.com/file/d/1IWBhhndH5jKaVHG10tvQrLYbJ1_bSlIs/view?usp=sharing'
+paperurl: 'https://arxiv.org/pdf/2310.01972.pdf'
+pdf: 'https://arxiv.org/pdf/2310.01972.pdf'
 #code: 'https://github.com/'
 ---
