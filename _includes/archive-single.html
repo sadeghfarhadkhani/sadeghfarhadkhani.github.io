@@ -64,7 +64,13 @@
         {% if post.slides %}
         <a href="{{ post.slides }}" style="color: steelblue;" target="_blank"><strong>Slides</strong></a>
         {% endif %}
+        {% if post.video %}
+        <a href="{{ post.video }}" style="color: darkgreen;" target="_blank"><strong>Video</strong></a> 
+        {% if post.video_contributor %}
+        (by {{ post.video_contributor }})
+        {% endif %} 
         <br/>
+        {% endif %}
         {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>'}}
       </p>
     {% endif %}
